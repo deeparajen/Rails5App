@@ -1,0 +1,10 @@
+table{
+    width: 80%;
+    height: 80%;
+    background-color: red;
+}
+
+body {
+  font-family: 'Noto Sans SC', 'Noto Sans';
+  font-size: 14px;
+}
